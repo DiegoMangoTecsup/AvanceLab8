@@ -1,0 +1,10 @@
+.container{
+    background: #8360c3;
+    background: -webkit-linear-gradient(to right, #2ebf918c, #8360c3a5), url(LIBRERIASESPA1206-superJumbo.jpg); 
+    background: linear-gradient(to right, #2ebf918c, #8360c3a5), url(LIBRERIASESPA1206-superJumbo.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
